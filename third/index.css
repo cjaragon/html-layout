@@ -1,0 +1,49 @@
+body{
+    margin: 0 auto;
+}
+
+.row{
+    width: 100vw;
+    height: 15vh;
+}
+
+
+.row-2{
+    width: 100vw;
+    height: 25vh;
+    padding: 5%;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+#content{
+    margin: 0 auto;
+}
+
+#row-1{
+    background-color: rgb(216, 216, 216);
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+
+.box{
+    height: 75px;
+    width: 75px;
+    background-color:  rgb(87, 87, 255);
+}
+
+#row-3{
+    background-color: rgb(87, 87, 255);
+}
+
+#row-4{
+    background-color: aquamarine;
+}
+
+#row-5{
+    background-color: rgb(180, 241, 172);
+}
+
+#row-6{
+    background: rgb(255, 255, 59);
+}
